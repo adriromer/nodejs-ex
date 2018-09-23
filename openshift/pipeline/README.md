@@ -12,3 +12,5 @@ oc new-app https://github.com/openshift/nodejs-ex
 oc new-app https://github.com/openshift/nodejs-ex \
   --context-dir=openshift/pipeline --name nodejs-ex-pipeline
 ```
+
+Editado
